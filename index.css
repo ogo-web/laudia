@@ -1,0 +1,46 @@
+.hintergrund {
+    background-color:white;
+}
+
+.überschrift {
+     color: black ;
+     text-align: center;
+}
+
+.Tabelle {
+	text-align: center;
+	margin-left: 40%;
+	margin-right:40%;
+     
+}
+
+.bild1 {
+	margin-left: 40%;
+    padding: 0;
+     
+}
+
+.bild2 {
+	margin-left: 40%;
+
+}
+
+
+
+}
+
+.text  {
+	 color:black; 
+	 text-align: center;
+	 border:solid;
+	 border-width: 10px 10px 10px 10px;
+	 margin-left: 20% ;
+	 margin-right: 20%;
+}
+ 
+ 
+ 
+ .bildis {
+	float:left;
+	margin:7px;
+		}
